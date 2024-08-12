@@ -1,5 +1,5 @@
 - 👋 I am BABA MALIK HUSSAIN Aspirant Data Scientist
-- 🌱 I’m currently learning Machine Learning and Applied Statistics
+- 🌱 Mastered Machine Learning and Applied Statistics
 - 💞️ I’m looking to collaborate on Open Source Machine Learning Projects
 - 🤔 I’m looking for help with MNC's Opportunity in Data Science
 - 💬 Ask me about Data Engineering and Data Science
